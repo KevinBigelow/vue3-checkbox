@@ -1,5 +1,7 @@
 # View the accompanying article on Medium
+```
 ## https://medium.com/swlh/build-a-checkbox-component-with-vue3-font-awesome-tailwind-css-99d176094b3d
+```
 
 ## Project setup
 ```
